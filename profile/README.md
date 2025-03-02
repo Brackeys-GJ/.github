@@ -1,4 +1,4 @@
-Game for the Brackeys GameJam 2025-1
+Orgamization for the Brackeys GameJam 2025-1
 
 Members:
 - Nick (Game Designer)
