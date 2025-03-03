@@ -1,6 +1,6 @@
 Orgamization for the [Brackeys GameJam 2025-1](https://itch.io/jam/brackeys-13):
 
-| Member      | Role                     | Social Links                                |
+| Member      | Role                     | Links                                |
 | ----------- |--------------------------| :-----------------------------------------: |
 | Nick        | Game Designer            | [Github](https://github.com/StraGeoStudios) |
 | Taz         | Quality Assurance        | [Github](https://github.com/Tasmagor)       |
